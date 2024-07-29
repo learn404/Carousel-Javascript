@@ -155,7 +155,7 @@ Créez un fichier `script.js` où vous écrirez le JavaScript pour gérer le cha
 - Dans l'écouteur d'événement du bouton "prev", décrémentez l'index de la slide actuelle, assurez-vous que l'index reste dans les limites (0 à nombre total de slides - 1). Appliquez la transformation de la piste du carousel pour afficher la slide précédente.
 - Dans l'écouteur d'événement du bouton "next", incrémentez l'index de la slide actuelle, assurez-vous que l'index reste dans les limites. Appliquez la transformation de la piste du carousel pour afficher la slide suivante.
 4. Mettez à jour l'état actif :
--Assurez-vous de mettre à jour les classes des slides et des indicateurs pour refléter l'état actuel après chaque navigation.
+- Assurez-vous de mettre à jour les classes des slides et des indicateurs pour refléter l'état actuel après chaque navigation.
 
 ### Tester Votre Solution
 - Ouvrez le fichier index.html dans votre navigateur.
@@ -168,6 +168,6 @@ Créez un fichier `script.js` où vous écrirez le JavaScript pour gérer le cha
 
 
 ### Ressources Supplémentaires
-[MDN Web Docs : Document Object Model (DOM)]('https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model')
-[MDN Web Docs : EventTarget.addEventListener()]('https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener')
-[MDN Web Docs : querySelector()]('https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector')
+- [MDN Web Docs : Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [MDN Web Docs : EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [MDN Web Docs : querySelector()](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
